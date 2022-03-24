@@ -1,5 +1,12 @@
 #include<iostream>
 
+int feature1GamePlayCODE()
+{
+    std:: cout << "This is a great feature" << std::endl;
+    return 0;
+}
+
+
 int feature1()
 {
     std:: cout << "This is a great feature" << std::endl;
