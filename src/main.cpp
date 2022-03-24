@@ -1,12 +1,15 @@
 #include<iostream>
 
-int feature1GamePlayCODE()
+int newFeatureFromMainBranch()
 {
     std:: cout << "This is a great feature" << std::endl;
     return 0;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 int feature1()
 {
     std:: cout << "This is a great feature" << std::endl;
