@@ -1,6 +1,13 @@
 #include<iostream>
 
 
+int connectWithGithub()
+{
+    std:: cout << "Conncted to Github" << std::endl;
+    return 0;
+}
+
+
 int mainBranchDevelopment2()
 {
     std:: cout << "This is yet more development" << std::endl;
